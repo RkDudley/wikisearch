@@ -11,7 +11,7 @@
   } 
 }
 body{
-  padding-left: 12%;
+  padding-left: 10%;
   padding-right: 12%;
 }
 h1          
@@ -28,7 +28,8 @@ input
   }
 #output  {
     text-align: left;
-    margin-left: 92px;
+    padding-left: 10%;
+    padding-right: 10%;
     
 }
 
