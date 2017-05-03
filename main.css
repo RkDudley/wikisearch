@@ -5,6 +5,15 @@
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
+@media screen and (min-width: 450px){
+.rwd-break {
+    display: none;
+  } 
+}
+body{
+  padding-left: 12%;
+  padding-right: 12%;
+}
 h1          
    { text-align: center;
      color: blue;
